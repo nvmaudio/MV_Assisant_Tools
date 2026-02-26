@@ -29,30 +29,16 @@ MV_Assisant_Tools được phát triển nhằm:
 ## 🛠 Phiên bản hiện tại
 
 - **MV_Assisant_Tools_V3.0.8**
-
 ---
 
-## 🖥 Yêu cầu hệ thống
-
-| Thành phần | Yêu cầu |
-|------------|----------|
-| Hệ điều hành | Windows 10 / 11 (64-bit) |
-| RAM | ≥ 4GB |
-| Kết nối | USB 2.0 / 3.0 |
-| Driver | Driver USB phù hợp cho chip MVsilicon |
-
----
 
 # 📥 Tải xuống
 
 Phiên bản mới nhất được phát hành tại GitHub Releases:
-
 🔗 https://github.com/nvmaudio/MV_Assisant_Tools/releases/tag/MV_Assisant_Tools
-
 ## 📦 Gói phát hành
-
 - `MV_Assisant_Tools_XX.zip` – Phiên bản Portable (không cần cài đặt)
-
+- 
 ## 📌 Hướng dẫn tải
 
 1. Truy cập link Releases ở trên  
@@ -60,7 +46,6 @@ Phiên bản mới nhất được phát hành tại GitHub Releases:
 3. Tải file `MV_Assisant_Tools_XX.zip` trong mục **Assets**  
 4. Giải nén file  
 5. Chạy `MV_Assisant_Tools_XX.exe`
-
 ---
 
 # 🔄 Hướng dẫn Flash / Update Firmware
@@ -73,46 +58,22 @@ Phiên bản mới nhất được phát hành tại GitHub Releases:
 ## 1️⃣ Chuẩn bị
 
 - Cáp USB kết nối thiết bị với máy tính  
-- File Firmware (.bin hoặc định dạng được hỗ trợ)  
-- File Data (nếu cần cập nhật dữ liệu)  
-- Thiết bị được đưa vào chế độ Boot / Update  
-
+- File Firmware (.mva hoặc định dạng được hỗ trợ)
+- Kết nối bo mạch với máy tính bằng cap USB
+- Kiểm tra trạng thái hiển thị **Connected**
 ---
 
-## 2️⃣ Kết nối thiết bị
+## 2️⃣ Chọn Firmware
 
-
-::contentReference[oaicite:0]{index=0}
-
-
-1. Kết nối thiết bị với máy tính qua cổng USB  
-2. Mở phần mềm **MV_Assisant_Tools**  
-3. Kiểm tra trạng thái hiển thị **Connected**
-
----
-
-## 3️⃣ Chọn Firmware và Data
-
-
-::contentReference[oaicite:1]{index=1}
-
-
-1. Nhấn nút **Browse / Select FW**  
+1. Nhấn nút **Load**  
 2. Chọn file Firmware phù hợp  
-3. Nếu cần cập nhật dữ liệu, chọn thêm file Data  
-
 ---
 
-## 4️⃣ Tiến hành Flash / Update
+## 3️⃣ Tiến hành Flash / Update
 
-
-::contentReference[oaicite:2]{index=2}
-
-
-1. Nhấn **Flash** hoặc **Update**  
+1. Nhấn nút **Upgade**  
 2. Chờ quá trình hoàn tất (không rút cáp USB)  
-3. Khi hiển thị thông báo **Success / Completed**  
-4. Thiết bị sẽ tự khởi động lại (nếu được cấu hình)
+3. Khi hiển thị thông báo **Success / Completed** là thành công
 
 ---
 
