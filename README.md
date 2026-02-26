@@ -67,7 +67,7 @@ Phiên bản mới nhất được phát hành tại GitHub Releases:
 
 ## 🖥 Giao diện chính
 
-![Main UI](docs/images/main_ui.png)
+![Main UI](1.png)
 
 
 ## 1️⃣ Chuẩn bị
