@@ -15,13 +15,13 @@ Phiên bản mới nhất của **ACPWorkbench** được phát hành tại GitH
 
 ### Các gói phát hành
 
-- `ACPWorkbench_XX.zip` – Phiên bản Portable (không cần cài đặt)
+- `MV_Assisant_Tools_XX.zip` – Phiên bản Portable (không cần cài đặt)
 
 ### Hướng dẫn tải
 
 1. Truy cập link Releases ở trên.
 2. Chọn phiên bản mới nhất.
-3. Tải file `ACPWorkbench_XX.zip` trong mục **Assets**.
-4. Giải nén và chạy `ACPWorkbench.exe`.
+3. Tải file `MV_Assisant_Tools_XX.zip` trong mục **Assets**.
+4. Giải nén và chạy `MV_Assisant_Tools_XX.exe`.
 
 ---
