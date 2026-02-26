@@ -65,6 +65,11 @@ Phiên bản mới nhất được phát hành tại GitHub Releases:
 
 # 🔄 Hướng dẫn Flash / Update Firmware
 
+## 🖥 Giao diện chính
+
+![Main UI](docs/images/main_ui.png)
+
+
 ## 1️⃣ Chuẩn bị
 
 - Cáp USB kết nối thiết bị với máy tính  
@@ -130,15 +135,9 @@ Phiên bản mới nhất được phát hành tại GitHub Releases:
 
 ---
 
-## 📄 Giấy phép
 
-Phát hành nội bộ hoặc theo chính sách của công ty.
-
----
 
 ## 👨‍💻 Liên hệ hỗ trợ
 
 Nếu gặp sự cố trong quá trình sử dụng:
-
-- Tạo Issue trên GitHub
-- Hoặc liên hệ bộ phận kỹ thuật nội bộ
+- Liên hệ bộ phận kỹ thuật nội bộ
